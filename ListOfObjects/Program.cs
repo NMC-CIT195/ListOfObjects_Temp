@@ -20,7 +20,7 @@ namespace ListOfObjects
             //Monster fred = new Monster("Fred", 77);
             //monsters.Add(suzy);
             //monsters.Add(fred);
-            Convert.ToDouble
+
             List<Monster> monsters = new List<Monster>()
             {
                 new Monster()
