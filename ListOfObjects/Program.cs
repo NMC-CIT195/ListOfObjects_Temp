@@ -8,8 +8,6 @@ using ListOfObjects.Things;
 
 namespace ListOfObjects
 {
-
-
     class Program
     {
         static void Main(string[] args)
